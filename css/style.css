@@ -32,7 +32,9 @@ nav {
 }
 
 .nav-container {
+    align-items: center;
     display: grid;
+    height: 100%;
     font-size: 2rem;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: 1fr;
